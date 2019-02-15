@@ -40,3 +40,27 @@
   text-align: left;
   font-size: 16px;
 }
+#dropdown-menu-m .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-m .nav .link,
+#dropdown-menu-m .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-m .navbar,
+#dropdown-menu-m .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-m .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-m .dropdown-menu a:hover,
+#dropdown-menu-m .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-m .navbar-toggler {
+  color: #000000;
+}
+#contacts2-n P {
+  text-align: left;
+  font-size: 16px;
+}
